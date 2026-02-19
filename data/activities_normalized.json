@@ -9969,5 +9969,18 @@
     "start_date_local": "2026-02-17T09:24:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 20293.7,
+    "elevation_gain": 102.0,
+    "id": "17441717426",
+    "moving_time": 1999.0,
+    "name": "Zwift - TrainerRoad: Manly on Neon Flats in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-18T09:19:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
