@@ -9982,5 +9982,18 @@
     "start_date_local": "2026-02-18T09:19:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 48335.4,
+    "elevation_gain": 399.0,
+    "id": "17452397583",
+    "moving_time": 5421.0,
+    "name": "Zwift - TrainerRoad: Sunny Hay on Chasing the Sun in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-19T08:00:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
