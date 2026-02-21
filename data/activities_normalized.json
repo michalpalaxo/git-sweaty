@@ -9995,5 +9995,31 @@
     "start_date_local": "2026-02-19T08:00:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 29443.0,
+    "elevation_gain": 288.0,
+    "id": "17462676230",
+    "moving_time": 4121.0,
+    "name": "New bike ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-20T16:17:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 21605.2,
+    "elevation_gain": 439.4,
+    "id": "17470959776",
+    "moving_time": 9182.0,
+    "name": "\u0160umava - je\u0161t\u011b ne\u017e to v\u0161echno odtaje \ud83c\udf21\ufe0f\ud83e\udd72",
+    "raw_activity_type": "NordicSki",
+    "raw_type": "NordicSki",
+    "start_date_local": "2026-02-21T10:03:30Z",
+    "type": "NordicSki",
+    "year": 2026
   }
 ]
