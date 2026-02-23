@@ -10021,5 +10021,18 @@
     "start_date_local": "2026-02-21T10:03:30Z",
     "type": "NordicSki",
     "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 51696.6,
+    "elevation_gain": 354.0,
+    "id": "17487965134",
+    "moving_time": 5428.0,
+    "name": "Zwift - TrainerRoad: Townsend on Neon Shore Loop in Makuri Islands",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-22T10:32:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
