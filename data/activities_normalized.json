@@ -10073,5 +10073,18 @@
     "start_date_local": "2026-02-26T08:09:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 45465.8,
+    "elevation_gain": 368.0,
+    "id": "17542973031",
+    "moving_time": 5517.0,
+    "name": "V \u00fanoru na \"dole kr\u00e1tk\u00fd\" \ud83e\udd29\ud83d\udcaf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-27T15:49:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
