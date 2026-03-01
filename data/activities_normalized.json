@@ -10086,5 +10086,18 @@
     "start_date_local": "2026-02-27T15:49:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-28",
+    "distance": 56881.5,
+    "elevation_gain": 474.0,
+    "id": "17555066264",
+    "moving_time": 7126.0,
+    "name": "Sobotn\u00ed pohodinda s Eli \u2764\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-28T14:58:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
