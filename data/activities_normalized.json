@@ -10112,5 +10112,18 @@
     "start_date_local": "2026-03-01T15:05:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 28797.3,
+    "elevation_gain": 182.0,
+    "id": "17577616878",
+    "moving_time": 3732.0,
+    "name": "Do soumraku \ud83c\udf06",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-02T16:45:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
