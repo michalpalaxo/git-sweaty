@@ -10125,5 +10125,18 @@
     "start_date_local": "2026-03-02T16:45:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 41282.7,
+    "elevation_gain": 550.0,
+    "id": "17590009918",
+    "moving_time": 5260.0,
+    "name": "Intervalky na Krkavec",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-03T16:13:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
