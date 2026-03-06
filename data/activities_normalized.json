@@ -10151,5 +10151,18 @@
     "start_date_local": "2026-03-04T16:20:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 51241.1,
+    "elevation_gain": 356.0,
+    "id": "17616305367",
+    "moving_time": 5420.0,
+    "name": "Zwift - TrainerRoad: Fletcher",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-05T08:59:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
