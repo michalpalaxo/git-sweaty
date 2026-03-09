@@ -10164,5 +10164,18 @@
     "start_date_local": "2026-03-05T08:59:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 101839.0,
+    "elevation_gain": 930.0,
+    "id": "17650711580",
+    "moving_time": 12537.0,
+    "name": "Se zlat\u00ed\u010dkem do St\u0159\u00edbra chytat bronz \ud83d\ude0e\ud83d\udc95",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-08T12:53:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
