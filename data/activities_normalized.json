@@ -10210,10 +10210,23 @@
     "elevation_gain": 396.0,
     "id": "17708822457",
     "moving_time": 12418.0,
-    "name": "Lunch Ride",
+    "name": "Mallorca day 1",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-03-13T11:37:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 116386.0,
+    "elevation_gain": 639.0,
+    "id": "17718674532",
+    "moving_time": 14347.0,
+    "name": "Mallorca day 2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-14T08:47:50Z",
     "type": "Ride",
     "year": 2026
   }
