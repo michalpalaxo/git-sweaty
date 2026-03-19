@@ -10268,5 +10268,31 @@
     "start_date_local": "2026-03-17T10:49:50Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 160916.0,
+    "elevation_gain": 2752.0,
+    "id": "17768519179",
+    "moving_time": 23312.0,
+    "name": "Mallorca day 6",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T10:16:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 106353.0,
+    "elevation_gain": 982.0,
+    "id": "17779553386",
+    "moving_time": 14009.0,
+    "name": "Mallorca day 7",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-19T10:25:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
