@@ -10346,5 +10346,18 @@
     "start_date_local": "2026-03-26T09:00:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 53362.9,
+    "elevation_gain": 406.0,
+    "id": "17878958747",
+    "moving_time": 6981.0,
+    "name": "N\u00fd\u0159any/Dob\u0159any \ud83e\udd76\ud83e\udd76\ud83c\udf2c\ufe0f\ud83c\udf2c\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-27T16:10:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
