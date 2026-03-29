@@ -10359,5 +10359,31 @@
     "start_date_local": "2026-03-27T16:10:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 68353.9,
+    "elevation_gain": 791.0,
+    "id": "17890593094",
+    "moving_time": 8989.0,
+    "name": "Kozojedy coffeeride \u2615",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T13:58:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 50708.1,
+    "elevation_gain": 652.0,
+    "id": "17901945976",
+    "moving_time": 6838.0,
+    "name": "Vodokrty",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T14:23:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
