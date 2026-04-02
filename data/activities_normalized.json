@@ -10398,5 +10398,18 @@
     "start_date_local": "2026-03-30T17:27:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 55254.2,
+    "elevation_gain": 744.0,
+    "id": "17939714175",
+    "moving_time": 7055.0,
+    "name": "Radyn\u011b - intrevalky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T16:24:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
