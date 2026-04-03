@@ -10411,5 +10411,31 @@
     "start_date_local": "2026-04-01T16:24:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 47964.5,
+    "elevation_gain": 382.0,
+    "id": "17951913356",
+    "moving_time": 5806.0,
+    "name": "Prvn\u00ed Dob\u0159ansk\u00e1\ud83c\udf66sezony",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T16:35:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 112374.0,
+    "elevation_gain": 1413.0,
+    "id": "17962702825",
+    "moving_time": 14021.0,
+    "name": "ROCK - velikono\u010dn\u00ed vyj\u00ed\u017e\u010fka \ud83d\udc23",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T11:12:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
