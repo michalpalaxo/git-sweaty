@@ -10444,10 +10444,23 @@
     "elevation_gain": 745.0,
     "id": "17989140759",
     "moving_time": 6965.0,
-    "name": "Afternoon Ride",
+    "name": "Draki\u00e1da na Rab\u0161tejn \ud83e\ude81\ud83e\ude81",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-05T14:38:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 71884.9,
+    "elevation_gain": 1031.0,
+    "id": "18000761877",
+    "moving_time": 9749.0,
+    "name": "Kl\u00e1\u0161ter Tepl\u00e1 se slun\u00ed\u010dkem \u2600\ufe0f\u2764\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-06T13:38:18Z",
     "type": "Ride",
     "year": 2026
   }
