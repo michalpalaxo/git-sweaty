@@ -10463,5 +10463,18 @@
     "start_date_local": "2026-04-06T13:38:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 37967.0,
+    "elevation_gain": 412.0,
+    "id": "18030276987",
+    "moving_time": 5027.0,
+    "name": "Rychlovka na Kokotsko",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-08T17:43:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
