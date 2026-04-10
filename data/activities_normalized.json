@@ -10476,5 +10476,18 @@
     "start_date_local": "2026-04-08T17:43:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 78043.6,
+    "elevation_gain": 766.0,
+    "id": "18043201082",
+    "moving_time": 8903.0,
+    "name": "P\u0159e\u0161tice - SST intervaly",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T16:17:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
