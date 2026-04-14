@@ -10528,5 +10528,18 @@
     "start_date_local": "2026-04-12T07:43:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 57407.0,
+    "elevation_gain": 562.0,
+    "id": "18093636280",
+    "moving_time": 6682.0,
+    "name": "Na Zahr\u00e1dku \u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-13T17:06:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
