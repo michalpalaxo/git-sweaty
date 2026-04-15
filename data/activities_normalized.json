@@ -10541,5 +10541,18 @@
     "start_date_local": "2026-04-13T17:06:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 50267.5,
+    "elevation_gain": 637.0,
+    "id": "18106549854",
+    "moving_time": 6227.0,
+    "name": "Vo2MAX intervalky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T16:28:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
