@@ -10554,5 +10554,18 @@
     "start_date_local": "2026-04-14T16:28:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 33266.4,
+    "elevation_gain": 247.0,
+    "id": "18121471687",
+    "moving_time": 4525.0,
+    "name": "L\u00edn\u011b na L\u00edn\u011b \ud83d\ude43",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T18:09:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
