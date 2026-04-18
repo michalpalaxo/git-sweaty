@@ -10567,5 +10567,31 @@
     "start_date_local": "2026-04-15T18:09:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 68924.8,
+    "elevation_gain": 813.0,
+    "id": "18147645003",
+    "moving_time": 9167.0,
+    "name": "Chytat slun\u00ed\u010dko s Eli \ud83d\ude0e\u2600\ufe0f\ud83d\udc95",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T16:13:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 41591.0,
+    "elevation_gain": 461.0,
+    "id": "18158198710",
+    "moving_time": 5724.0,
+    "name": "Podpo\u0159it 2 buchty \u263a\ufe0f\u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T12:55:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
