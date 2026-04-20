@@ -10593,5 +10593,18 @@
     "start_date_local": "2026-04-18T12:55:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 71115.4,
+    "elevation_gain": 735.0,
+    "id": "18175003144",
+    "moving_time": 9255.0,
+    "name": "Letiny \ud83d\udca8\ud83d\udca8\ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T15:48:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
