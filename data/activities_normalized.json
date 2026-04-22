@@ -10606,5 +10606,18 @@
     "start_date_local": "2026-04-19T15:48:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 57150.6,
+    "elevation_gain": 755.0,
+    "id": "18199830591",
+    "moving_time": 7347.0,
+    "name": "VO2MAX Radyn\u011b \ud83c\udff0 a Kozel \ud83d\udc10",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T16:17:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
