@@ -10619,5 +10619,18 @@
     "start_date_local": "2026-04-21T16:17:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 42513.2,
+    "elevation_gain": 250.0,
+    "id": "18215003084",
+    "moving_time": 5403.0,
+    "name": "Vysmradit se",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T17:57:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
