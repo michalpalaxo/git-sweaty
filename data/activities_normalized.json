@@ -10645,5 +10645,31 @@
     "start_date_local": "2026-04-23T16:46:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 55513.8,
+    "elevation_gain": 414.0,
+    "id": "18241126809",
+    "moving_time": 6896.0,
+    "name": "P\u0159e\u0161tice / Dob\u0159any",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T16:21:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 54368.6,
+    "elevation_gain": 636.0,
+    "id": "18253445175",
+    "moving_time": 7009.0,
+    "name": "B\u0159asy - coffee ride \u263a\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T14:19:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
