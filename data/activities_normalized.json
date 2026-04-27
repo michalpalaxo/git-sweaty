@@ -10671,5 +10671,18 @@
     "start_date_local": "2026-04-25T14:19:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 49389.5,
+    "elevation_gain": 367.0,
+    "id": "18268604964",
+    "moving_time": 6020.0,
+    "name": "Vseruby",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T16:18:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
