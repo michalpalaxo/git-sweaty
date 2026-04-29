@@ -10691,10 +10691,23 @@
     "elevation_gain": 809.0,
     "id": "18294392220",
     "moving_time": 7466.0,
-    "name": "Afternoon Ride",
+    "name": "Plasy - tempo",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-28T16:30:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 39787.8,
+    "elevation_gain": 409.0,
+    "id": "18307758918",
+    "moving_time": 4896.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T16:38:30Z",
     "type": "Ride",
     "year": 2026
   }
