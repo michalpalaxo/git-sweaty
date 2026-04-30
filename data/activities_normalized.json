@@ -10704,10 +10704,23 @@
     "elevation_gain": 409.0,
     "id": "18307758918",
     "moving_time": 4896.0,
-    "name": "Afternoon Ride",
+    "name": "Na chvilku \ud83d\udca8\ud83d\udca8\ud83d\udca8",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-04-29T16:38:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 33015.4,
+    "elevation_gain": 390.0,
+    "id": "18320428091",
+    "moving_time": 4141.0,
+    "name": "Bike check a p\u00e1r sprint\u016f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T16:13:15Z",
     "type": "Ride",
     "year": 2026
   }
