@@ -10723,5 +10723,18 @@
     "start_date_local": "2026-04-30T16:13:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 76042.6,
+    "elevation_gain": 1343.0,
+    "id": "18332464794",
+    "moving_time": 9164.0,
+    "name": "Tour de Brdy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T12:00:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
