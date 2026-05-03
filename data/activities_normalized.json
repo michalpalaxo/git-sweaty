@@ -10736,5 +10736,18 @@
     "start_date_local": "2026-05-01T12:00:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 119620.0,
+    "elevation_gain": 1861.0,
+    "id": "18360367467",
+    "moving_time": 16685.0,
+    "name": "Recon Letape",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T10:35:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
