@@ -10749,5 +10749,18 @@
     "start_date_local": "2026-05-03T10:35:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 32714.7,
+    "elevation_gain": 252.0,
+    "id": "18374338810",
+    "moving_time": 4267.0,
+    "name": "Rege a zmrzka \u263a\ufe0f\ud83c\udf66",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-04T17:20:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
