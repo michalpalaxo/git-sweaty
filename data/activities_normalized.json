@@ -10762,5 +10762,18 @@
     "start_date_local": "2026-05-04T17:20:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 58192.6,
+    "elevation_gain": 565.0,
+    "id": "18387441368",
+    "moving_time": 6574.0,
+    "name": "Intervalky - treshold focus",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-05T16:29:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
