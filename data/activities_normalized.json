@@ -10801,5 +10801,18 @@
     "start_date_local": "2026-05-07T06:53:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 4277.0,
+    "elevation_gain": 3.9,
+    "id": "18426105143",
+    "moving_time": 4501.0,
+    "name": "Saint Tropez",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T11:28:52Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
