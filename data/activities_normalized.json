@@ -10814,5 +10814,18 @@
     "start_date_local": "2026-05-08T11:28:52Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 1803.0,
+    "elevation_gain": 5.4,
+    "id": "18428384689",
+    "moving_time": 1967.0,
+    "name": "Cannes",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T16:33:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
