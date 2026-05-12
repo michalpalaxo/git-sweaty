@@ -10866,5 +10866,18 @@
     "start_date_local": "2026-05-11T08:55:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 35283.4,
+    "elevation_gain": 137.0,
+    "id": "18479003534",
+    "moving_time": 3623.0,
+    "name": "Zwift - TrainerRoad: Tweed -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-12T08:14:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
