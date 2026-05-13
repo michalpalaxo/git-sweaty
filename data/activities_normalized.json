@@ -10879,5 +10879,18 @@
     "start_date_local": "2026-05-12T08:14:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 39479.8,
+    "elevation_gain": 408.0,
+    "id": "18492624919",
+    "moving_time": 5015.0,
+    "name": "Lh\u016fta - naj\u00edt d\u00edru mezi mraky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T16:49:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
