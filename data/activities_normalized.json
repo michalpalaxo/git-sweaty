@@ -10905,5 +10905,18 @@
     "start_date_local": "2026-05-14T16:56:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 123112.0,
+    "elevation_gain": 1462.0,
+    "id": "18530648729",
+    "moving_time": 13529.0,
+    "name": "RC Palava 49. Celkove",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T11:04:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
