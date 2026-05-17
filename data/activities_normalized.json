@@ -10918,5 +10918,18 @@
     "start_date_local": "2026-05-16T11:04:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 5506.0,
+    "elevation_gain": 7.4,
+    "id": "18540455867",
+    "moving_time": 5064.0,
+    "name": "Proch\u00e1zka k minaretu",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-17T10:30:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
