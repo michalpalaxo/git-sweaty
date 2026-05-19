@@ -10931,5 +10931,18 @@
     "start_date_local": "2026-05-17T10:30:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 41657.1,
+    "elevation_gain": 504.0,
+    "id": "18569729606",
+    "moving_time": 5420.0,
+    "name": "Pomalu rozcvi\u010dit od\u0159eniny",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T07:28:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
