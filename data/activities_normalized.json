@@ -10957,5 +10957,18 @@
     "start_date_local": "2026-05-20T08:20:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 51439.1,
+    "elevation_gain": 263.0,
+    "id": "18597967736",
+    "moving_time": 5421.0,
+    "name": "Zwift - TrainerRoad: Navetta",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-21T08:45:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
