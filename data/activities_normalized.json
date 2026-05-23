@@ -10977,10 +10977,23 @@
     "elevation_gain": 375.0,
     "id": "18610719094",
     "moving_time": 6966.0,
-    "name": "Afternoon Ride",
+    "name": "Do Sob\u011bkur na \u010dumendu",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-22T16:28:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 45470.8,
+    "elevation_gain": 617.0,
+    "id": "18622295975",
+    "moving_time": 6208.0,
+    "name": "Chvilku se spa\u0159it",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T14:33:41Z",
     "type": "Ride",
     "year": 2026
   }
