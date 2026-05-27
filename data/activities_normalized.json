@@ -11009,5 +11009,31 @@
     "start_date_local": "2026-05-24T14:17:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 74427.3,
+    "elevation_gain": 1130.0,
+    "id": "18664693904",
+    "moving_time": 10009.0,
+    "name": "Zkontrolovat kope\u010dky v okol\u00ed",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T16:35:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 39129.4,
+    "elevation_gain": 423.0,
+    "id": "18678401005",
+    "moving_time": 5308.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-27T17:57:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
