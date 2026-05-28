@@ -11029,10 +11029,23 @@
     "elevation_gain": 423.0,
     "id": "18678401005",
     "moving_time": 5308.0,
-    "name": "Afternoon Ride",
+    "name": "Kokotsko s Eli \u263a\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-27T17:57:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 76428.4,
+    "elevation_gain": 970.0,
+    "id": "18691654212",
+    "moving_time": 9750.0,
+    "name": "Na Oboru ze 4 stran",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-28T16:27:58Z",
     "type": "Ride",
     "year": 2026
   }
