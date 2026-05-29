@@ -11048,5 +11048,18 @@
     "start_date_local": "2026-05-28T16:27:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 62230.2,
+    "elevation_gain": 529.0,
+    "id": "18705088763",
+    "moving_time": 8345.0,
+    "name": "Hracholusky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T16:59:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
