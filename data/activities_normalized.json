@@ -11061,5 +11061,18 @@
     "start_date_local": "2026-05-29T16:59:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 58085.8,
+    "elevation_gain": 602.4,
+    "id": "18717191517",
+    "moving_time": 7801.0,
+    "name": "Krapet f\u00fak\u00e1 \ud83d\ude01\ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T15:12:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
