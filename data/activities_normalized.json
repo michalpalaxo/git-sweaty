@@ -11087,5 +11087,18 @@
     "start_date_local": "2026-05-31T13:18:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 76114.5,
+    "elevation_gain": 902.0,
+    "id": "18758403366",
+    "moving_time": 9250.0,
+    "name": "Holoubkov / Radnice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T16:28:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
