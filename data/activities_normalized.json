@@ -11165,5 +11165,18 @@
     "start_date_local": "2026-06-07T13:06:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 51004.8,
+    "elevation_gain": 560.0,
+    "id": "18852572109",
+    "moving_time": 6414.0,
+    "name": "Intervalky jen tak okolo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T16:28:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
