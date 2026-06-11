@@ -11191,5 +11191,31 @@
     "start_date_local": "2026-06-10T07:50:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 30768.7,
+    "elevation_gain": 371.0,
+    "id": "18879421203",
+    "moving_time": 3796.0,
+    "name": "Zwift - TrainerRoad: Peters",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T07:30:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 15101.1,
+    "elevation_gain": 60.0,
+    "id": "18879710997",
+    "moving_time": 1415.0,
+    "name": "Zwift - Pacer Group Ride with Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T08:35:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
