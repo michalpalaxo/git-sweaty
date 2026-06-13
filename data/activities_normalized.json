@@ -11230,5 +11230,18 @@
     "start_date_local": "2026-06-12T08:12:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 70556.4,
+    "elevation_gain": 772.0,
+    "id": "18903838295",
+    "moving_time": 9138.0,
+    "name": "Chalupov\u00e1 draki\u00e1da \ud83c\udf2c\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T13:01:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
