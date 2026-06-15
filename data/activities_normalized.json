@@ -11243,5 +11243,18 @@
     "start_date_local": "2026-06-13T13:01:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 48278.3,
+    "elevation_gain": 472.0,
+    "id": "18918785628",
+    "moving_time": 6474.0,
+    "name": "Okolo Kozla \ud83d\udc10",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T15:19:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
