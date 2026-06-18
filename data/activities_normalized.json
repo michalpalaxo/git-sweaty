@@ -11276,10 +11276,23 @@
     "elevation_gain": 342.0,
     "id": "18961133481",
     "moving_time": 5684.0,
-    "name": "Afternoon Ride",
+    "name": "Pohodi\u010dka p\u0159ez Dob\u0159any \u263a\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-17T17:57:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 61511.6,
+    "elevation_gain": 384.0,
+    "id": "18973548875",
+    "moving_time": 7007.0,
+    "name": "\u00dajezd nade M\u017e\u00ed x2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T16:35:25Z",
     "type": "Ride",
     "year": 2026
   }
