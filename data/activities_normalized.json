@@ -11315,10 +11315,23 @@
     "elevation_gain": 1820.0,
     "id": "18996857538",
     "moving_time": 14841.0,
-    "name": "Letape dlouh\u00e1",
+    "name": "L'\u00c9tape dlouh\u00e1",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-20T11:00:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 39639.7,
+    "elevation_gain": 250.0,
+    "id": "19012788970",
+    "moving_time": 5357.0,
+    "name": "Regenerace \u2615\ud83c\udf70",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T16:26:37Z",
     "type": "Ride",
     "year": 2026
   }
