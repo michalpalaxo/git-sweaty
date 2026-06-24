@@ -11334,5 +11334,31 @@
     "start_date_local": "2026-06-21T16:26:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 65663.7,
+    "elevation_gain": 790.0,
+    "id": "19038725285",
+    "moving_time": 8534.0,
+    "name": "Jen tak se toulat \ud83c\udf1e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T16:36:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 55468.7,
+    "elevation_gain": 376.0,
+    "id": "19051109250",
+    "moving_time": 6171.0,
+    "name": "P\u0159e\u0161tice - tempo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T16:30:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
