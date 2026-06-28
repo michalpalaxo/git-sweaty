@@ -11386,5 +11386,31 @@
     "start_date_local": "2026-06-26T17:48:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 16795.2,
+    "elevation_gain": 43.0,
+    "id": "19088741572",
+    "moving_time": 2209.0,
+    "name": "V roli zachr\u00e1nce \ud83d\ude01",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T18:52:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 44564.7,
+    "elevation_gain": 307.0,
+    "id": "19096342661",
+    "moving_time": 5649.0,
+    "name": "Pa\u0159\u00e1\u010dek \ud83e\udd75\ud83d\ude01",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T10:35:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
