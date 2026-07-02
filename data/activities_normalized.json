@@ -11425,5 +11425,31 @@
     "start_date_local": "2026-06-30T16:17:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 40113.1,
+    "elevation_gain": 282.0,
+    "id": "19141245572",
+    "moving_time": 3976.0,
+    "name": "Zwift - Pacer Group Ride with Yumi",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-01T10:37:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 47235.5,
+    "elevation_gain": 528.0,
+    "id": "19151689481",
+    "moving_time": 5423.0,
+    "name": "Zwift - TrainerRoad: Blue Top",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-02T06:42:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
