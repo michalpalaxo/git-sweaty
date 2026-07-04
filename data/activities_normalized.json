@@ -11451,5 +11451,18 @@
     "start_date_local": "2026-07-02T06:42:27Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 30340.0,
+    "elevation_gain": 252.8,
+    "id": "19175527865",
+    "moving_time": 7161.0,
+    "name": "Ayia Nappa - Blue lagoon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-04T10:14:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
