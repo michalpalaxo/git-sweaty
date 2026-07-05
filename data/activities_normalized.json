@@ -11464,5 +11464,31 @@
     "start_date_local": "2026-07-04T10:14:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 4032.0,
+    "elevation_gain": 230.1,
+    "id": "19186282717",
+    "moving_time": 4412.0,
+    "name": "Kaledonian waterfalls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-05T11:19:02Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 7410.0,
+    "elevation_gain": 59.1,
+    "id": "19189426791",
+    "moving_time": 6587.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-05T14:20:33Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
