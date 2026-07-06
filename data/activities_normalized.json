@@ -11484,11 +11484,24 @@
     "elevation_gain": 59.1,
     "id": "19189426791",
     "moving_time": 6587.0,
-    "name": "Afternoon Hike",
+    "name": "Artemis trail",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-07-05T14:20:33Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 2747.0,
+    "elevation_gain": 6.5,
+    "id": "19191688338",
+    "moving_time": 2555.0,
+    "name": "Proch\u00e1zka ve\u010dern\u00ed Nikosi\u00ed",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-05T18:12:52Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
