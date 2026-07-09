@@ -11516,5 +11516,31 @@
     "start_date_local": "2026-07-07T16:23:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 46179.3,
+    "elevation_gain": 336.0,
+    "id": "19231440711",
+    "moving_time": 5229.0,
+    "name": "Kr\u00e1tce p\u0159ez zmrzlinu \ud83d\ude0b\ud83d\ude07",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-08T17:23:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 68510.7,
+    "elevation_gain": 747.0,
+    "id": "19245203541",
+    "moving_time": 8418.0,
+    "name": "Bevan",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-09T16:29:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
