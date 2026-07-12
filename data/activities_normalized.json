@@ -11555,5 +11555,18 @@
     "start_date_local": "2026-07-10T18:08:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 88286.3,
+    "elevation_gain": 941.0,
+    "id": "19273032211",
+    "moving_time": 11000.0,
+    "name": "Su\u0161ice z chalupy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T16:47:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
