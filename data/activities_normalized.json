@@ -11568,5 +11568,18 @@
     "start_date_local": "2026-07-11T16:47:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 48003.8,
+    "elevation_gain": 524.0,
+    "id": "19297714814",
+    "moving_time": 6330.0,
+    "name": "P\u0159ez Radyni s Eli \u263a\ufe0f\u2764\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T17:30:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
