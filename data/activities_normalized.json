@@ -11581,5 +11581,18 @@
     "start_date_local": "2026-07-13T17:30:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 47197.3,
+    "elevation_gain": 334.0,
+    "id": "19312425818",
+    "moving_time": 5836.0,
+    "name": "Tanec s Mraky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-14T17:55:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
