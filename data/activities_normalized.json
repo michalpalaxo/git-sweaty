@@ -11594,5 +11594,31 @@
     "start_date_local": "2026-07-14T17:55:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 61033.5,
+    "elevation_gain": 652.0,
+    "id": "19326101212",
+    "moving_time": 7442.0,
+    "name": "Intervalky - Attacks",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-15T16:48:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 31189.4,
+    "elevation_gain": 258.0,
+    "id": "19338603177",
+    "moving_time": 3844.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T17:04:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
