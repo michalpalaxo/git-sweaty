@@ -11620,5 +11620,44 @@
     "start_date_local": "2026-07-16T17:04:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 5028.6,
+    "elevation_gain": 122.0,
+    "id": "19353818271",
+    "moving_time": 892.0,
+    "name": "RC Vyso\u010dina - tr\u00e9nink - prolog",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T18:40:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 640.4,
+    "elevation_gain": 13.0,
+    "id": "19354280133",
+    "moving_time": 69.0,
+    "name": "RC Vyso\u010dina - prolog",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T22:32:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 103897.0,
+    "elevation_gain": 1850.0,
+    "id": "19362259922",
+    "moving_time": 11324.0,
+    "name": "RC Vyso\u010dina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T11:04:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
