@@ -11672,5 +11672,31 @@
     "start_date_local": "2026-07-19T10:18:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 51306.4,
+    "elevation_gain": 371.0,
+    "id": "19405829305",
+    "moving_time": 6035.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-21T17:09:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 44554.3,
+    "elevation_gain": 326.0,
+    "id": "19419657041",
+    "moving_time": 5217.0,
+    "name": "Na pohodu \ud83c\udf66",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-22T16:22:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
