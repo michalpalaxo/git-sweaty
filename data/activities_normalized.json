@@ -11698,5 +11698,31 @@
     "start_date_local": "2026-07-22T16:22:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 1407.0,
+    "elevation_gain": 11.4,
+    "id": "19440016760",
+    "moving_time": 1101.0,
+    "name": "Vancouver - Jetlag walk \ud83e\udd74\ud83d\ude35",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-23T17:26:57Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1853.0,
+    "elevation_gain": 0.0,
+    "id": "19447573250",
+    "moving_time": 1563.0,
+    "name": "Rann\u00ed Vancouver",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-24T08:12:58Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
