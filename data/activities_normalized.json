@@ -11750,5 +11750,18 @@
     "start_date_local": "2026-07-24T11:53:51Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 7271.0,
+    "elevation_gain": 869.9,
+    "id": "19465638197",
+    "moving_time": 9914.0,
+    "name": "Stawamus Chief trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-25T13:15:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
