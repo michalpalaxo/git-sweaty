@@ -11763,5 +11763,57 @@
     "start_date_local": "2026-07-25T13:15:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 5140.0,
+    "elevation_gain": 985.1,
+    "id": "19477933412",
+    "moving_time": 6606.0,
+    "name": "Wedgemount lake trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T10:35:42Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 571.0,
+    "elevation_gain": 53.5,
+    "id": "19478201238",
+    "moving_time": 810.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T13:10:55Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 926.0,
+    "elevation_gain": 5.7,
+    "id": "19478417144",
+    "moving_time": 298.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T13:43:03Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 4478.0,
+    "elevation_gain": 22.5,
+    "id": "19479199657",
+    "moving_time": 4698.0,
+    "name": "Wedgemount lake trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T14:21:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
