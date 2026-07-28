@@ -11815,5 +11815,18 @@
     "start_date_local": "2026-07-26T14:21:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 10021.0,
+    "elevation_gain": 34.7,
+    "id": "19490053246",
+    "moving_time": 2248.0,
+    "name": "Cheakamus lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-27T08:54:42Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
