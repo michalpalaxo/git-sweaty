@@ -11828,5 +11828,18 @@
     "start_date_local": "2026-07-27T08:54:42Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 8393.0,
+    "elevation_gain": 0.0,
+    "id": "19506694029",
+    "moving_time": 69.0,
+    "name": "Joffrey lakes",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-28T11:21:07Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
