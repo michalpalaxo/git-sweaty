@@ -11841,5 +11841,18 @@
     "start_date_local": "2026-07-28T11:21:07Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 30754.0,
+    "elevation_gain": 1658.7,
+    "id": "19522776934",
+    "moving_time": 26366.0,
+    "name": "Panorama Ridge, Garibaldi lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-29T07:19:46Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
