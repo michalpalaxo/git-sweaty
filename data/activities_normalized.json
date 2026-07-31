@@ -11854,5 +11854,18 @@
     "start_date_local": "2026-07-29T07:19:46Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 4516.0,
+    "elevation_gain": 133.3,
+    "id": "19535915882",
+    "moving_time": 4181.0,
+    "name": "Proch\u00e1zka po Revelstoke mountain",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-30T13:23:54Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
