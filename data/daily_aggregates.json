@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:46:15.612623+00:00",
+  "generated_at": "2026-08-01T16:00:44.987034+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -6403,6 +6403,15 @@
           "distance": 4516.0,
           "elevation_gain": 133.3,
           "moving_time": 4181.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19549364467"
+          ],
+          "count": 1,
+          "distance": 15055.0,
+          "elevation_gain": 1037.6,
+          "moving_time": 15803.0
         }
       },
       "IceSkate": {
