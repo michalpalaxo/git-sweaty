@@ -11880,5 +11880,31 @@
     "start_date_local": "2026-07-31T10:48:12Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 9106.0,
+    "elevation_gain": 164.7,
+    "id": "19561260990",
+    "moving_time": 8360.0,
+    "name": "Emerald lake, Hamilton falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-01T09:55:34Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 4675.0,
+    "elevation_gain": 105.7,
+    "id": "19561261656",
+    "moving_time": 3896.0,
+    "name": "Wapta falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-01T13:52:25Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
