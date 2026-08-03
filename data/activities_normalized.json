@@ -11906,5 +11906,18 @@
     "start_date_local": "2026-08-01T13:52:25Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 20587.0,
+    "elevation_gain": 866.7,
+    "id": "19576570942",
+    "moving_time": 18133.0,
+    "name": "Iceline trail, Yoho valley, Takakaw falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-02T09:55:14Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
