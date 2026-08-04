@@ -11919,5 +11919,31 @@
     "start_date_local": "2026-08-02T09:55:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 14087.0,
+    "elevation_gain": 638.4,
+    "id": "19586881223",
+    "moving_time": 11914.0,
+    "name": "Lake Louis, Lake Agnes",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-03T08:30:31Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 2027.0,
+    "elevation_gain": 39.3,
+    "id": "19588642554",
+    "moving_time": 2059.0,
+    "name": "Lake Moraine",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-03T13:27:43Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
