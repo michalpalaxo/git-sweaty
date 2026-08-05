@@ -11945,5 +11945,31 @@
     "start_date_local": "2026-08-03T13:27:43Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 6781.0,
+    "elevation_gain": 415.5,
+    "id": "19602740203",
+    "moving_time": 5622.0,
+    "name": "Peyto Lake, Bow Lake viewpoint",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-04T10:31:28Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 7907.0,
+    "elevation_gain": 426.7,
+    "id": "19605108418",
+    "moving_time": 7557.0,
+    "name": "Colombia Icefield viewpoint",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-04T15:21:28Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
