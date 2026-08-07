@@ -11971,5 +11971,44 @@
     "start_date_local": "2026-08-04T15:21:28Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 8443.0,
+    "elevation_gain": 140.1,
+    "id": "19617699170",
+    "moving_time": 7435.0,
+    "name": "Maligne lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-05T10:03:35Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 3309.0,
+    "elevation_gain": 169.8,
+    "id": "19630894120",
+    "moving_time": 3434.0,
+    "name": "Athabasca glacier",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-06T11:04:36Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 5680.7,
+    "elevation_gain": 181.6,
+    "id": "19634052738",
+    "moving_time": 5063.0,
+    "name": "Johnston Canyon",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-06T15:31:11Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
