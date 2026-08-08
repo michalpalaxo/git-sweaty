@@ -12010,5 +12010,18 @@
     "start_date_local": "2026-08-06T15:31:11Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 10507.0,
+    "elevation_gain": 657.9,
+    "id": "19645506171",
+    "moving_time": 10158.0,
+    "name": "Banff - C-Level Cirque Trail",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-07T09:45:48Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
