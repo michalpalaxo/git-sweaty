@@ -12023,5 +12023,18 @@
     "start_date_local": "2026-08-07T09:45:48Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 39382.6,
+    "elevation_gain": 265.0,
+    "id": "19670651160",
+    "moving_time": 4904.0,
+    "name": "Jetlag r\u00e1jd\ud83e\udee9",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-09T16:28:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
