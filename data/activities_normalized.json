@@ -12036,5 +12036,18 @@
     "start_date_local": "2026-08-09T16:28:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 57332.3,
+    "elevation_gain": 473.0,
+    "id": "19684218869",
+    "moving_time": 7189.0,
+    "name": "Zahr\u00e1dka",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-10T17:22:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
