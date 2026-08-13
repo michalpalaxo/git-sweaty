@@ -6495,6 +6495,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13946,6 +13953,15 @@
           "distance": 51933.6,
           "elevation_gain": 659.0,
           "moving_time": 6507.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19715137313"
+          ],
+          "count": 1,
+          "distance": 47658.4,
+          "elevation_gain": 418.0,
+          "moving_time": 6460.0
         }
       },
       "VirtualRide": {
@@ -14533,7 +14549,7 @@
       }
     }
   },
-  "generated_at": "2026-08-12T15:59:14.707962+00:00",
+  "generated_at": "2026-08-13T15:59:35.529288+00:00",
   "other_bucket": "OtherSports",
   "repo": "michalpalaxo/git-sweaty",
   "source": "strava",
