@@ -12101,5 +12101,18 @@
     "start_date_local": "2026-08-15T11:17:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 45292.2,
+    "elevation_gain": 345.0,
+    "id": "19795812659",
+    "moving_time": 5482.0,
+    "name": "Kr\u00e1tce rozh\u00fdbat \ud83d\udca9",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T16:16:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
