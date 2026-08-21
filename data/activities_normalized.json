@@ -12127,5 +12127,18 @@
     "start_date_local": "2026-08-19T18:19:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 48023.8,
+    "elevation_gain": 456.0,
+    "id": "19826730768",
+    "moving_time": 6075.0,
+    "name": "Lehce zvlhnout \u26c8\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-20T17:40:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
