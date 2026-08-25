@@ -12153,5 +12153,18 @@
     "start_date_local": "2026-08-23T16:59:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 48763.6,
+    "elevation_gain": 356.0,
+    "id": "19880735937",
+    "moving_time": 5721.0,
+    "name": "Vserubske kole\u010dko",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-24T17:15:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
