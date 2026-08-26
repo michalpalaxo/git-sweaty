@@ -12166,5 +12166,18 @@
     "start_date_local": "2026-08-24T17:15:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 57796.5,
+    "elevation_gain": 572.0,
+    "id": "19895078185",
+    "moving_time": 6539.0,
+    "name": "Kam\u00ednky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T16:16:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
