@@ -12179,5 +12179,31 @@
     "start_date_local": "2026-08-25T16:16:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 39361.0,
+    "elevation_gain": 387.0,
+    "id": "19911729473",
+    "moving_time": 5065.0,
+    "name": "Podve\u010dern\u00ed pohodi\u010dka \u263a\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T18:19:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 73252.3,
+    "elevation_gain": 570.0,
+    "id": "19925089661",
+    "moving_time": 8229.0,
+    "name": "Stod/Merkl\u00edn",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-27T16:21:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
