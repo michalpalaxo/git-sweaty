@@ -12205,5 +12205,18 @@
     "start_date_local": "2026-08-27T16:21:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 204973.0,
+    "elevation_gain": 2526.0,
+    "id": "19952521947",
+    "moving_time": 26376.0,
+    "name": "Novoman\u017eelsk\u00e9 DVOUkilo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T09:40:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
