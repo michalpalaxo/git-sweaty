@@ -12218,5 +12218,18 @@
     "start_date_local": "2026-08-29T09:40:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 43171.8,
+    "elevation_gain": 302.0,
+    "id": "19978630017",
+    "moving_time": 5469.0,
+    "name": "Podve\u010dern\u00ed \ud83c\udf1e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-31T17:30:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
