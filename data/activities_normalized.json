@@ -12270,5 +12270,18 @@
     "start_date_local": "2026-09-03T16:37:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 66796.4,
+    "elevation_gain": 440.0,
+    "id": "20035700436",
+    "moving_time": 8003.0,
+    "name": "Neskute\u010dnej fi\u010d\u00e1k \ud83c\udf2c\ufe0f\ud83c\udf2c\ufe0f\ud83c\udf2c\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-04T16:15:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
