@@ -12283,5 +12283,18 @@
     "start_date_local": "2026-09-04T16:15:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 90941.8,
+    "elevation_gain": 1150.0,
+    "id": "20047220877",
+    "moving_time": 11120.0,
+    "name": "Zv\u00edkovec",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-05T12:28:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
