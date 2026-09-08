@@ -12309,5 +12309,18 @@
     "start_date_local": "2026-09-06T10:32:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 68221.3,
+    "elevation_gain": 885.0,
+    "id": "20090623085",
+    "moving_time": 8325.0,
+    "name": "Krkavec 40/20",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-08T16:26:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
