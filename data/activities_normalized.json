@@ -12322,5 +12322,18 @@
     "start_date_local": "2026-09-08T16:26:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 55330.1,
+    "elevation_gain": 667.0,
+    "id": "20118903034",
+    "moving_time": 6721.0,
+    "name": "Kokotsko",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-10T16:31:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
