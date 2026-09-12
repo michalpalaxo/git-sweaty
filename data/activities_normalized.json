@@ -12348,5 +12348,18 @@
     "start_date_local": "2026-09-11T16:13:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 93884.6,
+    "elevation_gain": 1173.0,
+    "id": "20144657050",
+    "moving_time": 13247.0,
+    "name": "Plze\u0148 - \u017delezn\u00e1 Ruda",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T11:37:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
