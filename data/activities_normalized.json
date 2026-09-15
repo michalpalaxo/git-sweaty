@@ -12374,5 +12374,18 @@
     "start_date_local": "2026-09-14T16:55:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 57113.3,
+    "elevation_gain": 502.0,
+    "id": "20187266860",
+    "moving_time": 6769.0,
+    "name": "Touskov",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-15T16:23:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
