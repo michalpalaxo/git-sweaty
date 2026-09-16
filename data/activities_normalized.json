@@ -12387,5 +12387,18 @@
     "start_date_local": "2026-09-15T16:23:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 34627.5,
+    "elevation_gain": 154.0,
+    "id": "20202818035",
+    "moving_time": 4334.0,
+    "name": "Mezi mraky \u2601\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T17:53:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
