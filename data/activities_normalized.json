@@ -12400,5 +12400,18 @@
     "start_date_local": "2026-09-16T17:53:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 34160.1,
+    "elevation_gain": 345.0,
+    "id": "20215241751",
+    "moving_time": 4329.0,
+    "name": "Kr\u00e1tk\u00fd bikecheck a sprint\u00edky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-17T16:21:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
