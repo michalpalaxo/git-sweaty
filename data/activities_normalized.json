@@ -12413,5 +12413,44 @@
     "start_date_local": "2026-09-17T16:21:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 2683.4,
+    "elevation_gain": 35.0,
+    "id": "20236328626",
+    "moving_time": 496.0,
+    "name": "Rozjet\u00ed",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T09:40:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 92308.4,
+    "elevation_gain": 2201.0,
+    "id": "20239852954",
+    "moving_time": 11957.0,
+    "name": "RC Je\u0161t\u011bd",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T10:59:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 13658.9,
+    "elevation_gain": 46.0,
+    "id": "20240468033",
+    "moving_time": 1616.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T14:46:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
