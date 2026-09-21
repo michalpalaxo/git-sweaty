@@ -12452,5 +12452,18 @@
     "start_date_local": "2026-09-19T14:46:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 40331.8,
+    "elevation_gain": 400.0,
+    "id": "20269521563",
+    "moving_time": 5302.0,
+    "name": "U\u017e je to takov\u00e9 podzimn\u00ed \ud83c\udf42\ud83d\ude1e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-21T16:59:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
