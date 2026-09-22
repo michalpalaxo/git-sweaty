@@ -12465,5 +12465,18 @@
     "start_date_local": "2026-09-21T16:59:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 55776.1,
+    "elevation_gain": 610.0,
+    "id": "20283901008",
+    "moving_time": 6829.0,
+    "name": "Zahr\u00e1dka - Fast climbs",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T16:25:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
