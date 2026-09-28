@@ -12530,5 +12530,18 @@
     "start_date_local": "2026-09-27T14:58:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 71986.3,
+    "elevation_gain": 1078.0,
+    "id": "20364976665",
+    "moving_time": 10430.0,
+    "name": "Kle\u0165 \ud83c\udf1e\u26f0\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-28T12:57:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
