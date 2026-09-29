@@ -12543,5 +12543,18 @@
     "start_date_local": "2026-09-28T12:57:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 56928.4,
+    "elevation_gain": 445.0,
+    "id": "20380330292",
+    "moving_time": 6095.0,
+    "name": "\u010casovka \u0160t\u011bnovice - P\u0159e\u0161tice - \u0160t\u011bnovice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T16:29:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
