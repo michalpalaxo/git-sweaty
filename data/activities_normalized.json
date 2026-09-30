@@ -12556,5 +12556,18 @@
     "start_date_local": "2026-09-29T16:29:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 27432.1,
+    "elevation_gain": 149.0,
+    "id": "20395447489",
+    "moving_time": 3505.0,
+    "name": "Kr\u00e1tce s Eli ne\u017e dojde sv\u011btlo \u2665\ufe0f\ud83c\udf03",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T17:44:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
