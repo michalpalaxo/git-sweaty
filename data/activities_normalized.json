@@ -12569,5 +12569,18 @@
     "start_date_local": "2026-09-30T17:44:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 44280.8,
+    "elevation_gain": 336.0,
+    "id": "20408381851",
+    "moving_time": 4878.0,
+    "name": "Bike check a p\u0159edz\u00e1vodn\u00ed aktivace",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-01T16:23:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
