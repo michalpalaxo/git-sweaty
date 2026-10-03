@@ -12582,5 +12582,31 @@
     "start_date_local": "2026-10-01T16:23:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 1783.9,
+    "elevation_gain": 1.0,
+    "id": "20428749882",
+    "moving_time": 405.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T09:32:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 103896.0,
+    "elevation_gain": 324.0,
+    "id": "20433678406",
+    "moving_time": 8991.0,
+    "name": "L'Etape Pardubice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T10:39:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
