@@ -12608,5 +12608,18 @@
     "start_date_local": "2026-10-03T10:39:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 48403.2,
+    "elevation_gain": 346.0,
+    "id": "20445502552",
+    "moving_time": 6115.0,
+    "name": "Regeneracni \u2615",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T10:29:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
