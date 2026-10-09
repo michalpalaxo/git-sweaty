@@ -12660,5 +12660,18 @@
     "start_date_local": "2026-10-08T07:53:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 48244.6,
+    "elevation_gain": 543.0,
+    "id": "20517143291",
+    "moving_time": 6365.0,
+    "name": "Dlouh\u00fd/dlouh\u00fd a zima \ud83d\ude29",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T16:23:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
