@@ -12712,5 +12712,18 @@
     "start_date_local": "2026-10-14T16:19:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 56828.2,
+    "elevation_gain": 576.0,
+    "id": "20597547947",
+    "moving_time": 6593.0,
+    "name": "Na Zahr\u00e1dku do tmy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-15T16:16:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
