@@ -12725,5 +12725,18 @@
     "start_date_local": "2026-10-15T16:16:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 50223.7,
+    "elevation_gain": 190.0,
+    "id": "20610684775",
+    "moving_time": 4603.0,
+    "name": "Zwift - Pacer Group Ride with Yumi",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-16T08:08:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
