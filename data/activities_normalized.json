@@ -12738,5 +12738,18 @@
     "start_date_local": "2026-10-16T08:08:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20623645492",
+    "moving_time": 3043.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "Workout",
+    "raw_type": "Squash",
+    "start_date_local": "2026-10-17T07:54:57Z",
+    "type": "Squash",
+    "year": 2026
   }
 ]
