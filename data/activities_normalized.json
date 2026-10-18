@@ -12751,5 +12751,18 @@
     "start_date_local": "2026-10-17T07:54:57Z",
     "type": "Squash",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 36679.0,
+    "elevation_gain": 460.0,
+    "id": "20638216131",
+    "moving_time": 4027.0,
+    "name": "Zwift - 6x2 VO2 Max",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T08:37:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
