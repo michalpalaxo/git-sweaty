@@ -12764,5 +12764,18 @@
     "start_date_local": "2026-10-18T08:37:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 35841.3,
+    "elevation_gain": 413.0,
+    "id": "20648671698",
+    "moving_time": 4273.0,
+    "name": "Zah\u0159\u00e1t se na Radyni \ud83c\udff0\ud83c\udf42",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-19T16:29:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
