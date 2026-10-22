@@ -12777,5 +12777,31 @@
     "start_date_local": "2026-10-19T16:29:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 47640.5,
+    "elevation_gain": 611.0,
+    "id": "20678327641",
+    "moving_time": 5430.0,
+    "name": "Zwift - Aerobic Builds",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-21T09:33:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 37811.4,
+    "elevation_gain": 395.0,
+    "id": "20689460660",
+    "moving_time": 4831.0,
+    "name": "Kokotsko",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-22T16:14:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

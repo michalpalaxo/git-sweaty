@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:58:08.918532+00:00",
+  "generated_at": "2026-10-22T19:03:58.011159+00:00",
   "years": {
     "2014": {
       "Ride": {
@@ -7857,6 +7857,15 @@
           "distance": 35841.3,
           "elevation_gain": 413.0,
           "moving_time": 4273.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20689460660"
+          ],
+          "count": 1,
+          "distance": 37811.4,
+          "elevation_gain": 395.0,
+          "moving_time": 4831.0
         }
       },
       "Squash": {
@@ -8431,6 +8440,15 @@
           "distance": 36679.0,
           "elevation_gain": 460.0,
           "moving_time": 4027.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20678327641"
+          ],
+          "count": 1,
+          "distance": 47640.5,
+          "elevation_gain": 611.0,
+          "moving_time": 5430.0
         }
       },
       "Walk": {
