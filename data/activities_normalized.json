@@ -12803,5 +12803,18 @@
     "start_date_local": "2026-10-22T16:14:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 46748.4,
+    "elevation_gain": 491.0,
+    "id": "20713434684",
+    "moving_time": 6700.0,
+    "name": "Zima, Vitr, D\u00e9\u0161\u0165 \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T13:45:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
