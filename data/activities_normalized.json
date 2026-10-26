@@ -12816,5 +12816,18 @@
     "start_date_local": "2026-10-24T13:45:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 33810.7,
+    "elevation_gain": 213.0,
+    "id": "20729697459",
+    "moving_time": 3625.0,
+    "name": "Zwift - Attack!",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-25T10:22:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
