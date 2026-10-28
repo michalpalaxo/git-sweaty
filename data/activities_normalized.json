@@ -12842,5 +12842,18 @@
     "start_date_local": "2026-10-27T09:53:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 59900.2,
+    "elevation_gain": 477.0,
+    "id": "20763176957",
+    "moving_time": 6934.0,
+    "name": "Sv\u00e1te\u010dn\u00ed Hracholusky",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-28T10:00:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
