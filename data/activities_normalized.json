@@ -12855,5 +12855,18 @@
     "start_date_local": "2026-10-28T10:00:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 21938.3,
+    "elevation_gain": 534.0,
+    "id": "20781947496",
+    "moving_time": 3010.0,
+    "name": "Zwift - Aerobic Sustainability",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-29T10:39:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
