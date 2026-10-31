@@ -12868,5 +12868,18 @@
     "start_date_local": "2026-10-29T10:39:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 54947.9,
+    "elevation_gain": 379.0,
+    "id": "20804400664",
+    "moving_time": 6008.0,
+    "name": "P\u0159ez P\u0159e\u0161tice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T13:08:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
