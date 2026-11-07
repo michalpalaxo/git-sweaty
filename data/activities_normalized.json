@@ -12920,5 +12920,18 @@
     "start_date_local": "2026-11-06T08:45:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 52922.4,
+    "elevation_gain": 513.0,
+    "id": "20895835991",
+    "moving_time": 6405.0,
+    "name": "1\u00b0C Is all we need \ud83e\udd76",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-07T13:32:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
