@@ -12946,5 +12946,18 @@
     "start_date_local": "2026-11-08T12:49:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 36934.4,
+    "elevation_gain": 509.0,
+    "id": "20924029389",
+    "moving_time": 3977.0,
+    "name": "Zwift - Over-Unders & Over-ATS",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-09T10:07:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
