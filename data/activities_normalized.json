@@ -12972,5 +12972,18 @@
     "start_date_local": "2026-11-10T08:13:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 10036.8,
+    "elevation_gain": 679.0,
+    "id": "20949211714",
+    "moving_time": 1936.0,
+    "name": "Zwift - Sa Calobra in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-11T08:20:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
