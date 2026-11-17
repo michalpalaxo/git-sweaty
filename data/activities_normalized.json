@@ -13024,5 +13024,18 @@
     "start_date_local": "2026-11-15T08:57:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 38356.7,
+    "elevation_gain": 915.0,
+    "id": "21023420812",
+    "moving_time": 5050.0,
+    "name": "Zwift - SST (Med)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-17T07:23:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
