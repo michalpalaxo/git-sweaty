@@ -13037,5 +13037,18 @@
     "start_date_local": "2026-11-17T07:23:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 53521.4,
+    "elevation_gain": 590.0,
+    "id": "21036424349",
+    "moving_time": 5719.0,
+    "name": "Zwift - High Cadence Heaven",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T07:03:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
