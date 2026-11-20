@@ -13050,5 +13050,18 @@
     "start_date_local": "2026-11-18T07:03:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 47676.6,
+    "elevation_gain": 835.0,
+    "id": "21060914915",
+    "moving_time": 5405.0,
+    "name": "Zwift - Orange Unicorn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-20T07:39:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
