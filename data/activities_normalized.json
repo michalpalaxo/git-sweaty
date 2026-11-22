@@ -13063,5 +13063,18 @@
     "start_date_local": "2026-11-20T07:39:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 49425.5,
+    "elevation_gain": 354.0,
+    "id": "21084550581",
+    "moving_time": 5671.0,
+    "name": "V\u0161eruby",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-22T13:50:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
