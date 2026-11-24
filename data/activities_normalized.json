@@ -13076,5 +13076,18 @@
     "start_date_local": "2026-11-22T13:50:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 43573.7,
+    "elevation_gain": 738.0,
+    "id": "21109468702",
+    "moving_time": 5416.0,
+    "name": "Zwift - Zone 3 with Sprints",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T07:30:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
