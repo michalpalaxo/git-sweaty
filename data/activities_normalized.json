@@ -13089,5 +13089,18 @@
     "start_date_local": "2026-11-24T07:30:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 51875.6,
+    "elevation_gain": 507.0,
+    "id": "21121795638",
+    "moving_time": 5415.0,
+    "name": "Zwift - Zone Two Groove",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-25T07:28:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
